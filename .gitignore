@@ -1,0 +1,11 @@
+# Ignore sensitive files
+secure/passwords.txt
+
+# Node modules (if applicable)
+node_modules/
+
+# Environment files
+.env
+
+# Logs
+*.log
