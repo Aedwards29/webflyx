@@ -8,4 +8,10 @@ node_modules/
 .env
 
 # Logs
-*.log/webflyx-local/
+*.log
+
+# Ignore generated advert
+advert.html
+
+# Ignore local directory
+/webflyx-local/
